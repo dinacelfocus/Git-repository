@@ -1,3 +1,13 @@
 A fun game where the computer randomly selects a number,  
 and the user tries to guess it. 
-The app gives hints ("Too high", "Too low") until the correct number is guessed.
+
+Example:
+Computer Number = 65;
+
+User input = 70,
+Computer = "Too High, Try Again!",
+User input = 60,
+Computer = "Too Low, Try Again!",
+User input = 65,
+Computer = "Successful!"
+
